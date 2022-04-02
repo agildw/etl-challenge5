@@ -1,4 +1,3 @@
-const { url } = require('inspector');
 const fetch = require('node-fetch');
 const readlineSync = require('readline-sync');
 
