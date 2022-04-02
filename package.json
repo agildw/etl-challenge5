@@ -1,0 +1,23 @@
+{
+  "name": "etl-challenge5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agildw/etl-challenge5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agildw/etl-challenge5/issues"
+  },
+  "homepage": "https://github.com/agildw/etl-challenge5#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "readline-sync": "^1.4.10"
+  }
+}
